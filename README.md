@@ -8,7 +8,8 @@ Hiển thị thời tiết hiện tại
 
         Trang chủ:
         chứa địa chỉ, nhiệt độ, tốc độ gió, độ ẩm,vv
-     <img width="277" height="573" alt="image" src="https://github.com/user-attachments/assets/d926a39a-9b73-482b-b58e-1f77cc9a574d" />
+  <img width="270" height="574" alt="Screenshot 2025-12-13 031617" src="https://github.com/user-attachments/assets/ddce9d3e-e139-4de2-8f4d-19c6accc99d7" />
+
 
 
         Tìm kiếm: HaNoi không vội được đâu
