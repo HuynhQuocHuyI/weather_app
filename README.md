@@ -13,14 +13,16 @@ Hiển thị thời tiết hiện tại
 
 
         Tìm kiếm: HaNoi không vội được đâu
-       <img width="274" height="585" alt="image" src="https://github.com/user-attachments/assets/d25ba603-d9a8-46a7-92b9-a8956afe95e0" />
+<img width="263" height="574" alt="Screenshot 2025-12-13 031811" src="https://github.com/user-attachments/assets/0fdba00a-2a1b-45f0-83b9-ad91c4f81313" />
 
-       <img width="260" height="570" alt="image" src="https://github.com/user-attachments/assets/a0c64ec3-7c1f-4f0d-ad80-3c8c6a9ef426" />
+        
+<img width="273" height="579" alt="Screenshot 2025-12-13 031745" src="https://github.com/user-attachments/assets/1f4c9ba2-4e95-4fce-bc6c-7b463b55c8cc" />
 
 
         Sting :
  <img width="272" height="569" alt="image" src="https://github.com/user-attachments/assets/09f92814-d014-420d-9309-2ea46c45efc4" />
 
 
-      <img width="273" height="307" alt="image" src="https://github.com/user-attachments/assets/f4987df0-1e58-4af1-853e-97767937cbe1" />
+<img width="292" height="317" alt="Screenshot 2025-12-13 033235" src="https://github.com/user-attachments/assets/cecd4473-0d11-4de9-b74b-ef496be17084" />
+
 
